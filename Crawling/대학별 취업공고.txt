@@ -1,0 +1,10 @@
+http://icc.skku.ac.kr/icc_new/board_list_square?boardName=board_recruit
+http://electronic.hanyang.ac.kr/work/list_hi.php
+http://ee.yonsei.ac.kr/ee/community/career_notice.do?mode=list&&articleLimit=10&article.offset=0
+http://eng.korea.ac.kr/eng/community/questions.do?mode=list&&articleLimit=10&article.offset=0
+http://cs.korea.ac.kr/cs/board/course.do
+http://info.korea.ac.kr/info/board/news.do
+http://ee.snu.ac.kr/community/notice/jobs
+http://career.snu.ac.kr/en/jobs/employer_posting.jsp
+https://cse.postech.ac.kr/community/careers/
+https://ee.postech.ac.kr/news/careers/
